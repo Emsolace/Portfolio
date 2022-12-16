@@ -32,6 +32,14 @@ a {
   color: #fff;
 }
 
+img {
+  width: 95%;
+}
+
+iframe{
+  width: 100%;
+}
+
 .carousel-item{
   text-align: center;
 }
@@ -53,6 +61,7 @@ a {
 
 .f-left {
   float: left;
+  width: 50%;
 }
 
 .h1-bgd {
@@ -65,19 +74,24 @@ a {
 }
 
 .h3-top-text {
-  color: #764C29;
+  color: #FCBA6B;
   text-align: center;
   margin-top: 2rem;
   padding-bottom: 2rem;
 }
 
 .image-sec-h2 {
-  padding: 5% 0 3% 0;
+  padding: 2% 0 2% 0;
   color: #764C29;
+  background-color: #FCBA6B;
 }
 
 .navbar-toggler {
   color: #fff;
+}
+
+.row {
+  padding: 1rem 0;
 }
 
 .Smata {
@@ -85,8 +99,9 @@ a {
 }
 
 .video-sec-h2{
-  padding: 5% 0 3% 0;
+  padding: 2% 0 2% 0;
   color: #764C29;
+  background-color: #C79770;
 }
 
 #footer {
@@ -95,12 +110,10 @@ a {
 }
 
 #images {
-background-color: #FCBA6B;
 text-align: center;
 
 }
 
 #videos {
-background-color: #C79770;
 text-align: center;
 }
