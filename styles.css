@@ -17,6 +17,10 @@ h4 {
 
 }
 
+i{
+  padding: 0 1.5rem;
+}
+
 p {
   color: #fff;
 }
@@ -71,7 +75,10 @@ iframe{
 
 .display-image {
   width: 60%;
+}
 
+.d-flex {
+  padding-left: 4rem;
 }
 
 .Em-P {
@@ -81,6 +88,12 @@ iframe{
 .f-left {
   float: left;
   width: 40%;
+}
+
+
+
+.form-control {
+  width: 23rem;
 }
 
 .h1-bgd {
@@ -114,8 +127,27 @@ iframe{
   padding: 1rem 0;
 }
 
+
+.separate {
+  padding: 5rem;
+}
+
+.separate2{
+  padding: 2rem;
+}
+
+
 .Smata {
   width: 60%;
+}
+
+.toolsRow {
+  padding: 0 1rem;
+
+}
+.toolsImages {
+  width: 3rem;
+  padding-top: 1.5rem;
 }
 
 .video-sec-h2{
@@ -136,13 +168,26 @@ iframe{
   transform: scale(1.8); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
+#carouselExampleControls {
+  margin-bottom: 5rem;
+}
+
 #footer {
   text-align: center;
-  padding:  4% 0;
+  padding:  4% 5%;
 }
 
 #images {
 text-align: center;
+
+}
+
+#tools {
+  color: #fff;
+  text-align: center;
+  padding: 2rem 4rem 2rem;
+  background-color: #616161;
+  line-height: 4rem;
 
 }
 
